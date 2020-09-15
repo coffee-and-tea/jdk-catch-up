@@ -25,3 +25,5 @@ hs_err_pid*
 # Intellij
 .idea
 
+# Gradle
+/jdk6/.gradle
