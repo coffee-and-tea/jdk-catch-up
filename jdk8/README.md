@@ -97,24 +97,25 @@
 | 135 |	Picked     | Base64 Encoding & Decoding, refresh base64 knowledge                     |
 | 149 |	Not picked | Reduce Core-Library Memory Usage, not API changes                        |
 | 150 |	Picked     | Date & Time API, date time lib refresh JSR 310                           |
-| 155 |	Concurrency Updates
-| 170 |	JDBC 4.2
-| 177 |	Optimize java.text.DecimalFormat.format
-| 178 | Statically-Linked JNI Libraries
-| 180 |	Handle Frequent HashMap Collisions with Balanced Trees
-| 127 |	Improve Locale Data Packaging and Adopt Unicode CLDR Data
-| 128 |	BCP 47 Locale Matching
-| 133 |	Unicode 6.2
-| 184 |	HTTP URL Permissions
-| 113 |	MS-SFU Kerberos 5 Extensions
-| 114 |	TLS Server Name Indication (SNI) Extension
-| 115 |	AEAD CipherSuites
-| 121 |	Stronger Algorithms for Password-Based Encryption
-| 123 |	Configurable Secure Random-Number Generation
-| 124 |	Enhance the Certificate Revocation-Checking API
-| 129 |	NSA Suite B Cryptographic Algorithms
-| 130 |	SHA-224 Message Digests
-| 131 |	PKCS#11 Crypto Provider for 64-bit Windows
-| 140 |	Limited doPrivileged
-| 166 |	Overhaul JKS-JCEKS-PKCS12 Keystores
-| 185 |	Restrict Fetching of External XML Resources
+| 155 |	Picked     | Concurrency Updates, catch up concurrency                                |
+| 170 |	Not picked | JDBC 4.2, catch up JDBC 4.3 version later                                |
+| 177 |	Not picked | Optimize java.text.DecimalFormat.format, JVM change not API change       |
+| 178 | Not picked | Statically-Linked JNI Libraries, inner working on how to load native app |
+| 180 |	Not picked / Handle Frequent HashMap Collisions with Balanced Trees, performance change not API change |
+| 127 |	Not picked | Improve Locale Data Packaging and Adopt Unicode CLDR Data, load local localization data |
+| 128 |	Not picked | BCP 47 Locale Matching, matching language and locale support             |
+| 133 |	Not picked | Unicode 6.2, unicode changes                                             |
+| 184 |	Not picked | HTTP URL Permissions, will catch up in later version HTTP and HTTP/2     |
+| 113 |	Not picked | MS-SFU Kerberos 5 Extensions, no planning to learn Kerberos yet          |
+| 114 |	Not Picked | TLS Server Name Indication (SNI) Extension, will catch along with HTTP/2 |
+| 115 |	Not picked | AEAD CipherSuites, add new CipherSuites, will catch up later on encryption |
+| 121 |	Not picked | Stronger Algorithms for Password-Based Encryption, will catch up encryption as separate topic |
+| 123 |	Not picked | Configurable Secure Random-Number Generation, catch up encryption separately |
+| 124 |	Not picked | Enhance the Certificate Revocation-Checking API, catch up security and encryption separately |
+| 129 |	Not picked | NSA Suite B Cryptographic Algorithms, catch up security and encryption separately |
+| 130 |	Not picked | SHA-224 Message Digests, catch up security and encryption separately     |
+| 131 |	Not picked | PKCS#11 Crypto Provider for 64-bit Windows, catch up security and encryption separately |
+| 140 |	Not picked | Limited doPrivileged, catch up security and encryption separately        |
+| 166 |	Not picked | Overhaul JKS-JCEKS-PKCS12 Keystores, catch up security and encryption separately |
+| 185 |	Picked     | Restrict Fetching of External XML Resources, catch up on XML processing  |
+
