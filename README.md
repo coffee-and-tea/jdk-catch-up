@@ -8,6 +8,6 @@ Environment set up:
 - gradle: https://gradle.org/ for building project as needed
 - IntilliJ IDEA: https://www.jetbrains.com/idea/ for development enviroment
 
-Methodology:
+How:
 - Sub projects will be create for each major Java SE version
 - For each major Java SE version, original create package structure base on original JSR 
