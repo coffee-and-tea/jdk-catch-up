@@ -1,4 +1,4 @@
-## jdk7 sub project
+## coffee_and_tea.jdk7 sub project
 
 ### Catching up changes in Java SE 7, following JSR are listed in original JSR-336: Java SE 7 Release Contents:
 
