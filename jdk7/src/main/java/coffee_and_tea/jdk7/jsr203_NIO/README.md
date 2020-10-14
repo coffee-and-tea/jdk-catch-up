@@ -10,6 +10,10 @@ Project link: https://openjdk.java.net/projects/nio/
 Learning code as @Test for easy execution
 
 #### File System API
-- FileSystems
+- FileSystems: 
 - Paths
 - Files
+- FileAttributes
+- Channels
+- WatchService
+

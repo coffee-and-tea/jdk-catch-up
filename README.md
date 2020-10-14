@@ -10,4 +10,4 @@ Environment set up:
 
 How:
 - Sub projects will be create for each major Java SE version
-- For each major Java SE version, original create package structure base on original JSR 
+- For each major Java SE version, original create package structure base on original JSR
