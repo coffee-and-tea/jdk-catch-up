@@ -1,4 +1,4 @@
-## jdk7 sub project
+## coffee_and_tea.jdk7 sub project
 
 ### Catching up changes in Java SE 7, following JSR are listed in original JSR-336: Java SE 7 Release Contents:
 
@@ -53,3 +53,4 @@
 | JSR 224 | Not picked | Java SE 11 removed JAX-WS module, considering this as Java EE learning path | 
 | JSR 269 | Picked     | Even though annotation is introduced with Java SE 5, it's a major language improvement, probably @Test is the most used annotation that I could think of. It's good playground to understand reflection, also different retention and target for annotation. |
 | Other   | Not picked | Features not including major language changes                            |
+
