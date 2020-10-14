@@ -44,7 +44,7 @@
 | JSR 296 | Not picked | JSR withdraw                                                             |
 | JSR 305 | Not picked | JSR dormant                                                              |
 | JSR 308 | Not picked | Annotations on Java Types, catch up with JDK8                            |
-| JSR 310 | Picked     | Improved Date and Time API features                                      | 
+| JSR 310 | Not picked | Improved Date and Time API features, catch up in JDK8                    | 
 | JSR 901 | Not picked | JSR for maintenance                                                      |
 | JSR 924 | Not picked | JSR for maintenance                                                      |
 | JSR 199 | Not picked | JSR for maintenance                                                      |
