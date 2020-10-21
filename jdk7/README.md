@@ -43,14 +43,14 @@
 | JSR 295 | Not picked | JSR withdraw                                                             |
 | JSR 296 | Not picked | JSR withdraw                                                             |
 | JSR 305 | Not picked | JSR dormant                                                              |
-| JSR 308 | Picked*    | Annotations on Java Types, together with JSR 269 catch up annotation, need to decide how to organize learning project structure for one topic |
-| JSR 310 | Picked     | Improved Date and Time API features                                      | 
+| JSR 308 | Not picked | Annotations on Java Types, catch up with JDK8                            |
+| JSR 310 | Not picked | Improved Date and Time API features, catch up in JDK8                    | 
 | JSR 901 | Not picked | JSR for maintenance                                                      |
 | JSR 924 | Not picked | JSR for maintenance                                                      |
 | JSR 199 | Not picked | JSR for maintenance                                                      |
 | JSR 206 | Not picked | JSR withdraw                                                             |
 | JSR 222 | Not picked | Java SE 11 removed JAXB, obsolete module                                 |
 | JSR 224 | Not picked | Java SE 11 removed JAX-WS module, considering this as Java EE learning path | 
-| JSR 269 | Picked     | Even though annotation is introduced with Java SE 5, it's a major language improvement, probably @Test is the most used annotation that I could think of. It's good playground to understand reflection, also different retention and target for annotation. |
+| JSR 269 | Not picked | Annotation, catch up with JDK8                                           |
 | Other   | Not picked | Features not including major language changes                            |
 

@@ -7,13 +7,11 @@ Project link: https://openjdk.java.net/projects/nio/
 - https://openjdk.java.net/projects/nio/presentations/TS-5052.pdf
 - https://openjdk.java.net/projects/nio/presentations/TS-4222.pdf
 
-Learning code as @Test for easy execution
-
 #### File System API
-- FileSystems: 
-- Paths
-- Files
-- FileAttributes
-- Channels
-- WatchService
+- FileSystems: access to OS related file system features
+- Paths: factory for Path
+- Files: Path related operation file manipulation
+- FileAttributes: File attributes OS dependent read/write/execution etc...
+- Channels: FileChannel for file read/write, AsyncronousChannel on network traffic 
+- WatchService: Watch for file changes
 

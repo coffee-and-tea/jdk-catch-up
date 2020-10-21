@@ -80,7 +80,7 @@ public class NioChannelApi {
 
         // open channel for read write
         try(FileChannel fc = FileChannel.open(readme, StandardOpenOption.READ, StandardOpenOption.WRITE)){
-            // read 15 bytes and output
+            // read 14 bytes and output
             ByteBuffer bb = ByteBuffer.allocate(14);
             fc.read(bb);
             System.out.println("14 bytes: " + new String(bb.array()));
