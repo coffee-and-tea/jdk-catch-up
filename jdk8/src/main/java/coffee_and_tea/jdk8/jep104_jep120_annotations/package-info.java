@@ -1,0 +1,2 @@
+@TargetTypePackageTypeAnno
+package coffee_and_tea.jdk8.jep104_jep120_annotations;

@@ -19,9 +19,6 @@ JEP link: https://openjdk.java.net/jeps/103
 - Merge sort
 
 #### Appendix: Sorting algorithms chart (implemented in our code):
-
-
-
 | Algorithm | in place | stable | time complexity (best / average / worst) | space complexity (best, average, worst) |
 | --------- | -------- | ------ | ---------------------------------------- | --------------------------------------- |  
 | Selection |     Y    |    N   |       Ω(n^2) / θ(n^2) / O(n^2)           |          Ω(1) / θ(1)  / O(1)            |
