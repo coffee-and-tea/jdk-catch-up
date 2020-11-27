@@ -1,6 +1,9 @@
-### JEP 126 
+### JEP 107 126 lambda, collections with filter map reduce, and core library changes 
 
-JEP link: https://openjdk.java.net/jeps/126
+JEP link: 
+- https://openjdk.java.net/jeps/107
+- https://openjdk.java.net/jeps/109
+- https://openjdk.java.net/jeps/126
 
 #### Learning resource:
 - https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html

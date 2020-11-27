@@ -1,4 +1,4 @@
-package coffee_and_tea.jdk8.jep126_lambda;
+package coffee_and_tea.jdk8.jep107_jep126_lambda_collection_map_filter_reduce;
 
 import java.util.Comparator;
 import java.util.stream.Stream;
