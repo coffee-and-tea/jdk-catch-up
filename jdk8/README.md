@@ -93,7 +93,7 @@
 | 107 |	Picked     | Bulk Data Operations for Collections, filter/map/reduce functions        |
 | 109 |	Picked     | Enhance Core Libraries with Lambda, Lambda improvements                  |
 | 112 |	Not picked | Charset Implementation Improvements, performance improvement             |
-| 119 |	Picked     | javax.lang.model Implementation Backed by Core Reflection, runtime reflection access |
+| 119 |	Not picked | javax.lang.model Implementation Backed by Core Reflection, runtime reflection access, language modeling will learn separate if needed |
 | 135 |	Picked     | Base64 Encoding & Decoding, refresh base64 knowledge                     |
 | 149 |	Not picked | Reduce Core-Library Memory Usage, not API changes                        |
 | 150 |	Picked     | Date & Time API, date time lib refresh JSR 310                           |
@@ -117,5 +117,5 @@
 | 131 |	Not picked | PKCS#11 Crypto Provider for 64-bit Windows, catch up security and encryption separately |
 | 140 |	Not picked | Limited doPrivileged, catch up security and encryption separately        |
 | 166 |	Not picked | Overhaul JKS-JCEKS-PKCS12 Keystores, catch up security and encryption separately |
-| 185 |	Picked     | Restrict Fetching of External XML Resources, catch up on XML processing  |
+| 185 |	Not picked | Restrict Fetching of External XML Resources, JAXP configuration change   |
 
