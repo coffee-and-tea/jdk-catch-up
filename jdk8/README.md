@@ -117,5 +117,5 @@
 | 131 |	Not picked | PKCS#11 Crypto Provider for 64-bit Windows, catch up security and encryption separately |
 | 140 |	Not picked | Limited doPrivileged, catch up security and encryption separately        |
 | 166 |	Not picked | Overhaul JKS-JCEKS-PKCS12 Keystores, catch up security and encryption separately |
-| 185 |	Picked     | Restrict Fetching of External XML Resources, catch up on XML processing  |
+| 185 |	Not picked | Restrict Fetching of External XML Resources, JAXP configuration change   |
 
