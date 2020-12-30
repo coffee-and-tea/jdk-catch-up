@@ -100,7 +100,7 @@
 | JEP | Selection  | Reason                                                                   |
 | --- | ---------- | ------------------------------------------------------------------------ |
 | 102 | Picked     | Process API Updates                                                      |
-| 110 | Picked     | HTTP 2 Client                                                            |
+| 110 | Not Picked | HTTP 2 Client, incubating module, will catch up with jep 321 once become standard |
 | 143 | Not picked | Improve Contended Locking, performance improvement, not API change       |
 | 158 | Picked     | Unified JVM Logging                                                      |
 | 165 | Not picked | Compiler Control, not API changes                                        |
