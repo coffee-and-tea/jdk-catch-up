@@ -1,3 +1,3 @@
-rootProject.name = 'jdk12'
-include 'jdk13'
+rootProject.name = 'coffee_and_tea.jdk12'
+
 
