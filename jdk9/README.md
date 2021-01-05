@@ -118,12 +118,12 @@
 | 217 | Not picked | Annotations Pipeline 2.0, javac change                                   |
 | 219 | Not picked | Datagram Transport Layer Security (DTLS), catch up security in separate topic |
 | 220 | Picked     | Modular Run-Time Images                                                  |
-| 221 | Picked     | Simplified Doclet API                                                    | 
+| 221 | Not picked | Simplified Doclet API, updates on inner working of how javadoc is generated | 
 | 222 | Picked     | jshell: The Java Shell (Read-Eval-Print Loop)                            |
 | 223 | Picked     | New Version-String Scheme                                                |
-| 224 | Picked     | HTML5 Javadoc                                                            |
-| 225 | Picked     | Javadoc Search                                                           |
-| 226 | Picked     | UTF-8 Property Files                                                     |
+| 224 | Not picked | HTML5 Javadoc, generate javadoc in html5 format                          |
+| 225 | Not picked | Javadoc Search, generate a search box in generated javadoc               |
+| 226 | Not picked | UTF-8 Property Files, property file encoding change to better support special characters |
 | 227 | Not picked | Unicode 7.0, unicode support                                             |
 | 228 | Picked     | Add More Diagnostic Commands                                             |
 | 229 | Not picked | Create PKCS12 Keystores by Default, catch up security separately         |

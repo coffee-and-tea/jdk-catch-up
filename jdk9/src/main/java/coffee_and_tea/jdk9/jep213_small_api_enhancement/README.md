@@ -1,10 +1,15 @@
-### JEP 193 Variable handle
+### JEP 213 Small Api enhancement
 
-JEP link: https://openjdk.java.net/jeps/193
+JEP link: https://openjdk.java.net/jeps/213
 
 #### Learning resource:
-- https://openjdk.java.net/jeps/193
+- https://openjdk.java.net/jeps/213
+- https://dzone.com/articles/java-9-new-enhancements-milling-project-coin
 
 #### Practice on:
-VarHandle provides a way to synchronize access to object's field without 
-rely on `synchronized` keyword or lock.
+- @SafeVargs on private instance methods
+- Effectively final variable to be used as resources in try with resource statement
+- Diamond with anoymous class 
+- remove `_` from legal identifier name
+- private method in interface
+
