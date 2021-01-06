@@ -140,16 +140,16 @@
 | 244 | Not picked | TLS Application-Layer Protocol Negotiation Extension, catch up security separately |
 | 245 | Not picked | Validate JVM Command-Line Flag Arguments, not API change                 |
 | 246 | Not picked | Leverage CPU Instructions for GHASH and RSA, not API change              |
-| 247 | Picked     | Compile for Older Platform Versions                                      |
+| 247 | Not picked | Compile for Older Platform Versions, javac to compile source code of lower version using option -source, -target, --release |
 | 248 | Not picked | Make G1 the Default Garbage Collector, not API change                    |
 | 249 | Not picked | OCSP Stapling for TLS, catch up security separately                      |
 | 250 | Not picked | Store Interned Strings in CDS Archives, not API change, memory management improvement for String |
-| 251 | Picked     | Multi-Resolution Images                                                  |
+| 251 | Not picked | Multi-Resolution Images, awt graphic package update                      |
 | 252 | Picked     | Use CLDR Locale Data by Default                                          |
 | 253 | Not Picked | Prepare JavaFX UI Controls & CSS APIs for Modularization, JavaFX removed from SE in later version |
 | 254 | Not picked | Compact Strings, memory management for Strings, not API change           |
 | 255 | Not picked | Merge Selected Xerces 2.11.0 Updates into JAXP, no change to JAXP API    |
-| 256 | Picked     | BeanInfo Annotations                                                     |
+| 256 | Not picked | BeanInfo Annotations, mostly used in graphic components to provide information on attributes of a Bean |
 | 257 | Not picked | Update JavaFX/Media to Newer Version of GStreamer, JavaFX removed from SE in later version |
 | 258 | Not picked | HarfBuzz Font-Layout Engine, font format, not core API                   |
 | 259 | Picked     | Stack-Walking API                                                        |
