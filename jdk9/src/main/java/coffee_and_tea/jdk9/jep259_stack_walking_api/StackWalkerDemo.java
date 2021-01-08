@@ -1,7 +1,6 @@
 package coffee_and_tea.jdk9.jep259_stack_walking_api;
 
 import java.util.List;
-import java.util.Stack;
 import java.util.stream.Collectors;
 
 public class StackWalkerDemo {

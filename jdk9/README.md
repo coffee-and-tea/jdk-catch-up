@@ -155,7 +155,7 @@
 | 259 | Picked     | Stack-Walking API                                                        |
 | 260 | Picked     | Encapsulate Most Internal APIs                                           |
 | 261 | Picked     | Module System                                                            |
-| 262 | Picked     | TIFF Image I/O                                                           |
+| 262 | Not picked | TIFF Image I/O, image processing api                                     |
 | 263 | Not picked | HiDPI Graphics on Windows and Linux, UI changes                          |
 | 264 | Picked     | Platform Logging API and Service                                         |
 | 265 | Not picked | Marlin Graphics Renderer, not API change                                 |
