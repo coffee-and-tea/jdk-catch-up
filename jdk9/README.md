@@ -173,7 +173,7 @@
 | 277 | Picked     | Enhanced Deprecation                                                     |
 | 278 | Not picked | Additional Tests for Humongous Objects in G1, catch up GC in separate topic |
 | 279 | Not picked | Improve Test-Failure Troubleshooting, not API change                     |
-| 280 | Picked     | Indify String Concatenation                                              |
+| 280 | Not picked | Indify String Concatenation, bytecode change not related to api          |
 | 281 | Not picked | HotSpot C++ Unit-Test Framework, not API change                          |
 | 282 | Picked     | jlink: The Java Linker                                                   |
 | 283 | Not picked | Enable GTK 3 on Linux, not API change                                    |
