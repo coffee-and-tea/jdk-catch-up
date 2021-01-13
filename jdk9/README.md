@@ -182,13 +182,13 @@
 | 287 | Not picked | SHA-3 Hash Algorithms, catch up security in separate topic               |
 | 288 | Not picked | Disable SHA-1 Certificates, catch up security in separate topic          |
 | 289 | Not picked | Deprecate the Applet API, deprecation                                    |
-| 290 | Picked     | Filter Incoming Serialization Data                                       |
+| 290 | Not picked | Filter Incoming Serialization Data, security related topic               |
 | 291 | Not picked | Deprecate the Concurrent Mark Sweep (CMS) Garbage Collector, deprecation |
 | 292 | Not picked | Implement Selected ECMAScript 6 Features in Nashorn, Nashorn deprecated in later SE version |
 | 294 | Not picked | Linux/s390x Port, not API change                                         |
 | 295 | Not picked | Ahead-of-Time Compilation, experimental feature                          |
 | 297 | Not picked | Unified arm32/arm64 Port, not API change                                 |
 | 298 | Not picked | Remove Demos and Samples, not API change                                 |
-| 299 | Picked     | Reorganize Documentation                                                 |
+| 299 | Not picked | Reorganize Documentation, generated javadoc structure change             |
 
 https://docs.oracle.com/javase/9/whatsnew/toc.htm#JSNEW-GUID-EF16133E-F5C2-4DEB-AA4E-A0C73E92E2C3
