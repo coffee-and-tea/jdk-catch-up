@@ -24,7 +24,7 @@
 | 296 | Not picked | Consolidate the JDK Forest into a Single Repository, not API change      |
 | 304 | Not picked | Garbage-Collector Interface, not API change                              |
 | 307 | Not picked | Parallel Full GC for G1, not API change                                  |
-| 310 | Picked     | Application Class-Data Sharing                                           |
+| 310 | Not picked | Application Class-Data Sharing, application sharing data when start up   |
 | 312 | Not picked | Thread-Local Handshakes, not API change                                  |
 | 313 | Not picked | Remove the Native-Header Generation Tool (javah), javah removal          |
 | 314 | Not picked | Additional Unicode Language-Tag Extensions, unicode support              |
