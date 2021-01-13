@@ -100,7 +100,7 @@
 | JEP | Selection  | Reason                                                                   |
 | --- | ---------- | ------------------------------------------------------------------------ |
 | 102 | Picked     | Process API Updates                                                      |
-| 110 | Picked     | HTTP 2 Client                                                            |
+| 110 | Not Picked | HTTP 2 Client, incubating module, will catch up with jep 321 once become standard |
 | 143 | Not picked | Improve Contended Locking, performance improvement, not API change       |
 | 158 | Picked     | Unified JVM Logging                                                      |
 | 165 | Not picked | Compiler Control, not API changes                                        |
@@ -118,12 +118,12 @@
 | 217 | Not picked | Annotations Pipeline 2.0, javac change                                   |
 | 219 | Not picked | Datagram Transport Layer Security (DTLS), catch up security in separate topic |
 | 220 | Picked     | Modular Run-Time Images                                                  |
-| 221 | Picked     | Simplified Doclet API                                                    | 
+| 221 | Not picked | Simplified Doclet API, updates on inner working of how javadoc is generated | 
 | 222 | Picked     | jshell: The Java Shell (Read-Eval-Print Loop)                            |
 | 223 | Picked     | New Version-String Scheme                                                |
-| 224 | Picked     | HTML5 Javadoc                                                            |
-| 225 | Picked     | Javadoc Search                                                           |
-| 226 | Picked     | UTF-8 Property Files                                                     |
+| 224 | Not picked | HTML5 Javadoc, generate javadoc in html5 format                          |
+| 225 | Not picked | Javadoc Search, generate a search box in generated javadoc               |
+| 226 | Not picked | UTF-8 Property Files, property file encoding change to better support special characters |
 | 227 | Not picked | Unicode 7.0, unicode support                                             |
 | 228 | Picked     | Add More Diagnostic Commands                                             |
 | 229 | Not picked | Create PKCS12 Keystores by Default, catch up security separately         |
@@ -140,22 +140,22 @@
 | 244 | Not picked | TLS Application-Layer Protocol Negotiation Extension, catch up security separately |
 | 245 | Not picked | Validate JVM Command-Line Flag Arguments, not API change                 |
 | 246 | Not picked | Leverage CPU Instructions for GHASH and RSA, not API change              |
-| 247 | Picked     | Compile for Older Platform Versions                                      |
+| 247 | Not picked | Compile for Older Platform Versions, javac to compile source code of lower version using option -source, -target, --release |
 | 248 | Not picked | Make G1 the Default Garbage Collector, not API change                    |
 | 249 | Not picked | OCSP Stapling for TLS, catch up security separately                      |
 | 250 | Not picked | Store Interned Strings in CDS Archives, not API change, memory management improvement for String |
-| 251 | Picked     | Multi-Resolution Images                                                  |
+| 251 | Not picked | Multi-Resolution Images, awt graphic package update                      |
 | 252 | Picked     | Use CLDR Locale Data by Default                                          |
 | 253 | Not Picked | Prepare JavaFX UI Controls & CSS APIs for Modularization, JavaFX removed from SE in later version |
 | 254 | Not picked | Compact Strings, memory management for Strings, not API change           |
 | 255 | Not picked | Merge Selected Xerces 2.11.0 Updates into JAXP, no change to JAXP API    |
-| 256 | Picked     | BeanInfo Annotations                                                     |
+| 256 | Not picked | BeanInfo Annotations, mostly used in graphic components to provide information on attributes of a Bean |
 | 257 | Not picked | Update JavaFX/Media to Newer Version of GStreamer, JavaFX removed from SE in later version |
 | 258 | Not picked | HarfBuzz Font-Layout Engine, font format, not core API                   |
 | 259 | Picked     | Stack-Walking API                                                        |
 | 260 | Picked     | Encapsulate Most Internal APIs                                           |
 | 261 | Picked     | Module System                                                            |
-| 262 | Picked     | TIFF Image I/O                                                           |
+| 262 | Not picked | TIFF Image I/O, image processing api                                     |
 | 263 | Not picked | HiDPI Graphics on Windows and Linux, UI changes                          |
 | 264 | Picked     | Platform Logging API and Service                                         |
 | 265 | Not picked | Marlin Graphics Renderer, not API change                                 |
@@ -173,7 +173,7 @@
 | 277 | Picked     | Enhanced Deprecation                                                     |
 | 278 | Not picked | Additional Tests for Humongous Objects in G1, catch up GC in separate topic |
 | 279 | Not picked | Improve Test-Failure Troubleshooting, not API change                     |
-| 280 | Picked     | Indify String Concatenation                                              |
+| 280 | Not picked | Indify String Concatenation, bytecode change not related to api          |
 | 281 | Not picked | HotSpot C++ Unit-Test Framework, not API change                          |
 | 282 | Picked     | jlink: The Java Linker                                                   |
 | 283 | Not picked | Enable GTK 3 on Linux, not API change                                    |
@@ -182,11 +182,13 @@
 | 287 | Not picked | SHA-3 Hash Algorithms, catch up security in separate topic               |
 | 288 | Not picked | Disable SHA-1 Certificates, catch up security in separate topic          |
 | 289 | Not picked | Deprecate the Applet API, deprecation                                    |
-| 290 | Picked     | Filter Incoming Serialization Data                                       |
+| 290 | Not picked | Filter Incoming Serialization Data, security related topic               |
 | 291 | Not picked | Deprecate the Concurrent Mark Sweep (CMS) Garbage Collector, deprecation |
 | 292 | Not picked | Implement Selected ECMAScript 6 Features in Nashorn, Nashorn deprecated in later SE version |
 | 294 | Not picked | Linux/s390x Port, not API change                                         |
 | 295 | Not picked | Ahead-of-Time Compilation, experimental feature                          |
 | 297 | Not picked | Unified arm32/arm64 Port, not API change                                 |
 | 298 | Not picked | Remove Demos and Samples, not API change                                 |
-| 299 | Picked     | Reorganize Documentation                                                 |
+| 299 | Not picked | Reorganize Documentation, generated javadoc structure change             |
+
+https://docs.oracle.com/javase/9/whatsnew/toc.htm#JSNEW-GUID-EF16133E-F5C2-4DEB-AA4E-A0C73E92E2C3
