@@ -1,0 +1,8 @@
+#!/Users/weixue/.sdkman/candidates/java/11.0.9.hs-adpt/bin/java --source 11
+
+public class SheBangHelloWorld {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}

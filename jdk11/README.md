@@ -37,7 +37,7 @@
 | 328 | Picked     | Flight Recorder                                                          |
 | 329 | Not picked | ChaCha20 and Poly1305 Cryptographic Algorithms, catch up security in separate topic |
 | 330 | Picked     | Launch Single-File Source-Code Programs                                  |
-| 331 | Picked     | Low-Overhead Heap Profiling                                              |
+| 331 | Not picked | Low-Overhead Heap Profiling, provide for JVMTI (java virtual machine tool interface). Most used by tools monitoring jvm states |
 | 332 | Not picked | Transport Layer Security (TLS) 1.3, catch up security in separate topic  |
 | 333 | Not picked | ZGC: A Scalable Low-Latency Garbage Collector(Experimental), catch up GC in separate topic |
 | 335 | Not picked | Deprecate the Nashorn JavaScript Engine, deprecation                     |
