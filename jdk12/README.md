@@ -18,7 +18,7 @@
 | --- | ---------- | ------------------------------------------------------------------------ |
 | 189 | Not picked | Shenandoah: A Low-Pause-Time Garbage Collector (Experimental), catch up GC in separate topic |
 | 230 | Picked     | Microbenchmark Suite                                                     |
-| 325 | Picked     | Switch Expressions (Preview)                                             |
+| 325 | Not picked | Switch Expressions (Preview), catch in jdk14 standard version            |
 | 334 |	Picked     | JVM Constants API                                                        |
 | 340 | Not picked | One AArch64 Port, Not Two, not API change                                |              
 | 341 | Picked     | Default CDS Archives                                                     |
