@@ -25,7 +25,7 @@
 | JEP | Selection  | Reason                                                                   |
 | --- | ---------- | ------------------------------------------------------------------------ |
 | 305 | Not picked | Pattern Matching for instanceof (Preview), catch up in SE 15 with second preview |
-| 343 |	Picked     | Packaging Tool (Incubator)                                               |
+| 343 |	Not picked | Packaging Tool (Incubator), will learn once standardized                 |
 | 345 | Not picked | NUMA-Aware Memory Allocation for G1, catch up GC in separate topic       |
 | 349 | Picked     | JFR Event Streaming                                                      |
 | 352 | Picked     | Non-Volatile Mapped Byte Buffers                                         |
