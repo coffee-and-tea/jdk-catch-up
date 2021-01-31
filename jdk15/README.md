@@ -26,13 +26,13 @@
 | 360 | Picked     | Sealed Classes (Preview)                                                 |
 | 371 | Picked     | Hidden Classes                                                           |
 | 372 | Not picked | Remove the Nashorn JavaScript Engine, deprecation removal                |
-| 373 | Picked     | Reimplement the Legacy DatagramSocket API                                |
-| 374 | Picked     | Disable and Deprecate Biased Locking                                     |
+| 373 | Not picked | Reimplement the Legacy DatagramSocket API, replace underline implementation |
+| 374 | Not picked | Disable and Deprecate Biased Locking, deprecating                        |
 | 375 | Picked     | Pattern Matching for instanceof (Second Preview)                         |
 | 377 | Not picked | ZGC: A Scalable Low-Latency Garbage Collector, catch up GC as a separate topic |
 | 378 | Picked     | Text Blocks                                                              |
 | 379 | Not picked | Shenandoah: A Low-Pause-Time Garbage Collector, catch up GC as a separate topic |
 | 381 | Not picked | Remove the Solaris and SPARC Ports, not API change                       |
-| 383 | Picked     | Foreign-Memory Access API (Second Incubator)                             |
+| 383 | Not picked | Foreign-Memory Access API (Second Incubator), learning when standardized |
 | 384 | Picked     | Records (Second Preview)                                                 |
 | 385 | Not picked | Deprecate RMI Activation for Removal, deprecation                        |
